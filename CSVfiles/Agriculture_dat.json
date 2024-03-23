@@ -1,0 +1,48 @@
+{
+    "agriculture": {
+        "2013": {
+            "emission": 8811,
+            "offset": 5398
+        },
+        "2014": {
+            "emission": 7318,
+            "offset": 3261
+        },
+        "2015": {
+            "emission": 2210,
+            "offset": 121
+        },
+        "2016": {
+            "emission": 2820,
+            "offset": 6395
+        },
+        "2017": {
+            "emission": 7064,
+            "offset": 6011
+        },
+        "2018": {
+            "emission": 7111,
+            "offset": 6434
+        },
+        "2019": {
+            "emission": 4003,
+            "offset": 5946
+        },
+        "2020": {
+            "emission": 5703,
+            "offset": 9753
+        },
+        "2021": {
+            "emission": 1763,
+            "offset": 5039
+        },
+        "2022": {
+            "emission": 6367,
+            "offset": 6677
+        },
+        "2023": {
+            "emission": 5957,
+            "offset": 7353
+        }
+    }
+}

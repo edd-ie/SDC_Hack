@@ -1,0 +1,48 @@
+{
+    "residential": {
+        "2013": {
+            "emission": 2046,
+            "offset": 4112
+        },
+        "2014": {
+            "emission": 7948,
+            "offset": 1224
+        },
+        "2015": {
+            "emission": 9766,
+            "offset": 440
+        },
+        "2016": {
+            "emission": 8615,
+            "offset": 4447
+        },
+        "2017": {
+            "emission": 7336,
+            "offset": 9649
+        },
+        "2018": {
+            "emission": 1727,
+            "offset": 7338
+        },
+        "2019": {
+            "emission": 4292,
+            "offset": 6839
+        },
+        "2020": {
+            "emission": 1486,
+            "offset": 9791
+        },
+        "2021": {
+            "emission": 1011,
+            "offset": 3082
+        },
+        "2022": {
+            "emission": 1332,
+            "offset": 9235
+        },
+        "2023": {
+            "emission": 2724,
+            "offset": 1349
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "industrial": {
+        "2013": {
+            "emission": 6163,
+            "offset": 481
+        },
+        "2014": {
+            "emission": 2883,
+            "offset": 3259
+        },
+        "2015": {
+            "emission": 5084,
+            "offset": 1332
+        },
+        "2016": {
+            "emission": 9199,
+            "offset": 9628
+        },
+        "2017": {
+            "emission": 6718,
+            "offset": 8433
+        },
+        "2018": {
+            "emission": 3831,
+            "offset": 2278
+        },
+        "2019": {
+            "emission": 6241,
+            "offset": 3356
+        },
+        "2020": {
+            "emission": 6320,
+            "offset": 7441
+        },
+        "2021": {
+            "emission": 7207,
+            "offset": 430
+        },
+        "2022": {
+            "emission": 1817,
+            "offset": 5237
+        },
+        "2023": {
+            "emission": 4404,
+            "offset": 5262
+        }
+    }
+}

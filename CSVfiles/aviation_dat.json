@@ -1,0 +1,48 @@
+{
+    "aviation": {
+        "2013": {
+            "emission": 4038,
+            "offset": 2278
+        },
+        "2014": {
+            "emission": 4168,
+            "offset": 6684
+        },
+        "2015": {
+            "emission": 4039,
+            "offset": 496
+        },
+        "2016": {
+            "emission": 6396,
+            "offset": 6441
+        },
+        "2017": {
+            "emission": 9416,
+            "offset": 9134
+        },
+        "2018": {
+            "emission": 4115,
+            "offset": 2390
+        },
+        "2019": {
+            "emission": 9182,
+            "offset": 6682
+        },
+        "2020": {
+            "emission": 6797,
+            "offset": 3713
+        },
+        "2021": {
+            "emission": 6791,
+            "offset": 8215
+        },
+        "2022": {
+            "emission": 4155,
+            "offset": 1126
+        },
+        "2023": {
+            "emission": 8098,
+            "offset": 5977
+        }
+    }
+}

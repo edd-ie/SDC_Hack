@@ -1,0 +1,48 @@
+{
+    "transportation": {
+        "2013": {
+            "emission": 1093,
+            "offset": 9558
+        },
+        "2014": {
+            "emission": 8238,
+            "offset": 1090
+        },
+        "2015": {
+            "emission": 4016,
+            "offset": 1208
+        },
+        "2016": {
+            "emission": 2930,
+            "offset": 7064
+        },
+        "2017": {
+            "emission": 1567,
+            "offset": 4669
+        },
+        "2018": {
+            "emission": 8223,
+            "offset": 8791
+        },
+        "2019": {
+            "emission": 2401,
+            "offset": 547
+        },
+        "2020": {
+            "emission": 9836,
+            "offset": 4198
+        },
+        "2021": {
+            "emission": 5637,
+            "offset": 4728
+        },
+        "2022": {
+            "emission": 3595,
+            "offset": 8260
+        },
+        "2023": {
+            "emission": 6892,
+            "offset": 2205
+        }
+    }
+}

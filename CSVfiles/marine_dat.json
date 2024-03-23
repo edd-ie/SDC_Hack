@@ -1,0 +1,48 @@
+{
+    "marine": {
+        "2013": {
+            "emission": 3621,
+            "offset": 5706
+        },
+        "2014": {
+            "emission": 7164,
+            "offset": 9511
+        },
+        "2015": {
+            "emission": 4654,
+            "offset": 1578
+        },
+        "2016": {
+            "emission": 5675,
+            "offset": 2326
+        },
+        "2017": {
+            "emission": 3656,
+            "offset": 9668
+        },
+        "2018": {
+            "emission": 1229,
+            "offset": 7962
+        },
+        "2019": {
+            "emission": 2089,
+            "offset": 5831
+        },
+        "2020": {
+            "emission": 6505,
+            "offset": 7882
+        },
+        "2021": {
+            "emission": 2272,
+            "offset": 5570
+        },
+        "2022": {
+            "emission": 8000,
+            "offset": 6672
+        },
+        "2023": {
+            "emission": 4607,
+            "offset": 5534
+        }
+    }
+}
