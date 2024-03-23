@@ -1,0 +1,48 @@
+{
+    "waste": {
+        "2013": {
+            "emission": 5439,
+            "offset": 4961
+        },
+        "2014": {
+            "emission": 9141,
+            "offset": 5922
+        },
+        "2015": {
+            "emission": 8371,
+            "offset": 2939
+        },
+        "2016": {
+            "emission": 8718,
+            "offset": 9404
+        },
+        "2017": {
+            "emission": 1608,
+            "offset": 9790
+        },
+        "2018": {
+            "emission": 4884,
+            "offset": 6139
+        },
+        "2019": {
+            "emission": 5959,
+            "offset": 5499
+        },
+        "2020": {
+            "emission": 4998,
+            "offset": 7832
+        },
+        "2021": {
+            "emission": 5897,
+            "offset": 1205
+        },
+        "2022": {
+            "emission": 7818,
+            "offset": 5028
+        },
+        "2023": {
+            "emission": 5380,
+            "offset": 8280
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "commercial": {
+        "2013": {
+            "emission": 3391,
+            "offset": 1441
+        },
+        "2014": {
+            "emission": 4222,
+            "offset": 5543
+        },
+        "2015": {
+            "emission": 8190,
+            "offset": 7266
+        },
+        "2016": {
+            "emission": 3962,
+            "offset": 2838
+        },
+        "2017": {
+            "emission": 1033,
+            "offset": 4094
+        },
+        "2018": {
+            "emission": 4344,
+            "offset": 3752
+        },
+        "2019": {
+            "emission": 1888,
+            "offset": 690
+        },
+        "2020": {
+            "emission": 8042,
+            "offset": 4059
+        },
+        "2021": {
+            "emission": 8339,
+            "offset": 9745
+        },
+        "2022": {
+            "emission": 6675,
+            "offset": 9057
+        },
+        "2023": {
+            "emission": 5804,
+            "offset": 2176
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "energy": {
+        "2013": {
+            "emission": 4158,
+            "offset": 1380
+        },
+        "2014": {
+            "emission": 8232,
+            "offset": 1318
+        },
+        "2015": {
+            "emission": 7487,
+            "offset": 58
+        },
+        "2016": {
+            "emission": 6937,
+            "offset": 2626
+        },
+        "2017": {
+            "emission": 8899,
+            "offset": 2374
+        },
+        "2018": {
+            "emission": 6258,
+            "offset": 1569
+        },
+        "2019": {
+            "emission": 3384,
+            "offset": 7908
+        },
+        "2020": {
+            "emission": 7949,
+            "offset": 2182
+        },
+        "2021": {
+            "emission": 6560,
+            "offset": 7088
+        },
+        "2022": {
+            "emission": 5247,
+            "offset": 8167
+        },
+        "2023": {
+            "emission": 5587,
+            "offset": 6616
+        }
+    }
+}
