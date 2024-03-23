@@ -1,0 +1,48 @@
+{
+    "forestry": {
+        "2013": {
+            "emission": 4327,
+            "offset": 698
+        },
+        "2014": {
+            "emission": 5797,
+            "offset": 5893
+        },
+        "2015": {
+            "emission": 4712,
+            "offset": 6233
+        },
+        "2016": {
+            "emission": 9477,
+            "offset": 7113
+        },
+        "2017": {
+            "emission": 7794,
+            "offset": 7876
+        },
+        "2018": {
+            "emission": 2883,
+            "offset": 1651
+        },
+        "2019": {
+            "emission": 8510,
+            "offset": 1909
+        },
+        "2020": {
+            "emission": 1513,
+            "offset": 2298
+        },
+        "2021": {
+            "emission": 9780,
+            "offset": 7788
+        },
+        "2022": {
+            "emission": 8171,
+            "offset": 9182
+        },
+        "2023": {
+            "emission": 8077,
+            "offset": 2887
+        }
+    }
+}
