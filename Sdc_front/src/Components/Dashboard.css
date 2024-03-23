@@ -1,0 +1,22 @@
+.Dashboard{
+    position: absolute;
+    background: rgb(199, 196, 196);
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100vw;
+    
+}
+
+.folder{
+    position: relative;
+    margin-top: 5%;
+    margin-left: 10%;
+    width: 90%;
+    height: 90%;
+    background: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top-left-radius: 15px;
+}
